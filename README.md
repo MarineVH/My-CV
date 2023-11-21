@@ -4,7 +4,7 @@
 
 ### Description
 
-Projet 
+Projet pour créer mon cv en utilisant le système grid de CSS.
 
 [Consignes](https://github.com/becodeorg/Swartz-8/blob/main/1.The-Field/8.Html-CSS/curriculum-vitae.adoc)
 
